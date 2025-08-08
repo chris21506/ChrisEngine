@@ -123,6 +123,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\A_Racer.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\BaseApp.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\CShape.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\Actor.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\Component.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\CVector2.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\Entity.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\Texture.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ECS\Transform.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\EngineGUI.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\Prerequisites.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\ResourceManager.h" />
+    <ClInclude Include="..\..\..\..\..\Downloads\ChrisEngineHeaders\Window.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\TSharedPointer.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\TStaticPtr.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\TUniquePtr.h" />
@@ -144,6 +157,15 @@
     <ClCompile Include="..\ThirdParties\imgui-master\imgui_tables.cpp" />
     <ClCompile Include="..\ThirdParties\imgui-master\imgui_widgets.cpp" />
     <ClCompile Include="..\ThirdParties\imgui-sfml-master\imgui-SFML.cpp" />
+    <ClCompile Include="Actor.cpp" />
+    <ClCompile Include="A_Racer.cpp" />
+    <ClCompile Include="BaseApp.cpp" />
+    <ClCompile Include="CShape.cpp" />
+    <ClCompile Include="EngineGUI.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

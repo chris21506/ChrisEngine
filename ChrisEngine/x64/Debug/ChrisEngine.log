@@ -1,0 +1,28 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui-SFML.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ThirdParties\imgui-sfml-master\imgui-SFML.h(4,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics/Color.hpp': No such file or directory
+  (compilando archivo de origen "../ThirdParties/imgui-sfml-master/imgui-SFML.cpp")
+  
+  Actor.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\Actor.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'Actor.h': No such file or directory
+  A_Racer.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\A_Racer.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'A_Racer.h': No such file or directory
+  BaseApp.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\BaseApp.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'BaseApp.h': No such file or directory
+  CShape.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\CShape.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'CShape.h': No such file or directory
+  EngineGUI.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\EngineGUI.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'EngineGUI.h': No such file or directory
+  main.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\main.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'ResourceManager.h': No such file or directory
+  ResourceManager.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\ResourceManager.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'ResourceManager.h': No such file or directory
+  Texture.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\Texture.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'Texture.h': No such file or directory
+  Window.cpp
+C:\Users\acome\OneDrive\Documentos\Unreal Projects\ChrisEngine\ChrisEngine\Window.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'Window.h': No such file or directory
+  Generando código...
